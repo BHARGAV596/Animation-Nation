@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'fancy Name title',
+    pageLink: './Art/Bhargav_596/Index.html',
+    imageLink: './Art/Bhargav_596/.gif',
+    author: 'Bhargav',
+    githubLink: 'https://github.com/BHARGAV596'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
